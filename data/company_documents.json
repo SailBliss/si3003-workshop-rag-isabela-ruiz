@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "sw001",
+    "title": "DirectorioSW — Propósito",
+    "content": "DirectorioSW es una comunidad y directorio de emprendimientos liderados por mujeres. El objetivo es facilitar recomendaciones de confianza y dar visibilidad a negocios seleccionados.",
+    "metadata": {
+      "department": "comunidad",
+      "type": "descripcion"
+    }
+  },
+  {
+    "id": "sw002",
+    "title": "DirectorioSW — Postulación",
+    "content": "La postulación al programa de Aliadas Fundadoras tiene un costo único de 10000 pesos colombianos. Toda solicitud se revisa manualmente antes de ser aprobada.",
+    "metadata": {
+      "department": "operaciones",
+      "type": "politica"
+    }
+  },
+  {
+    "id": "sw003",
+    "title": "DirectorioSW — Cupos",
+    "content": "La convocatoria inicial ofrece 50 cupos de Aliadas Fundadoras. Las postulaciones se consideran en el orden de recepción, sujeto a validación de requisitos.",
+    "metadata": {
+      "department": "operaciones",
+      "type": "convocatoria"
+    }
+  },
+  {
+    "id": "sw004",
+    "title": "DirectorioSW — Requisitos",
+    "content": "Para ser Aliada Fundadora, el negocio debe ser liderado por una mujer y aceptar las reglas de publicación de la comunidad.",
+    "metadata": {
+      "department": "operaciones",
+      "type": "politica"
+    }
+  },
+  {
+    "id": "sw005",
+    "title": "DirectorioSW — Beneficio Facebook",
+    "content": "Cada Aliada puede realizar una publicación comercial por semana en el grupo de Facebook, de acuerdo con las reglas de convivencia y moderación.",
+    "metadata": {
+      "department": "marketing",
+      "type": "beneficio"
+    }
+  },
+  {
+    "id": "sw006",
+    "title": "DirectorioSW — Beneficio WhatsApp",
+    "content": "El canal comercial de WhatsApp permite como máximo un mensaje de venta diario por integrante, sujeto a sus normas internas.",
+    "metadata": {
+      "department": "marketing",
+      "type": "beneficio"
+    }
+  },
+  {
+    "id": "sw007",
+    "title": "DirectorioSW — Perfil público",
+    "content": "Cada Aliada aprobada tiene un perfil público con información de su negocio, descripción, categoría y datos de contacto que decida compartir.",
+    "metadata": {
+      "department": "producto",
+      "type": "beneficio"
+    }
+  },
+  {
+    "id": "sw008",
+    "title": "DirectorioSW — Membresía",
+    "content": "Las Aliadas Fundadoras reciben tres meses de membresía gratuita después de la activación y, posteriormente, la tarifa prevista es de 20000 pesos colombianos al mes.",
+    "metadata": {
+      "department": "finanzas",
+      "type": "precio"
+    }
+  }
+]
